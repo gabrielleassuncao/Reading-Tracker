@@ -1,0 +1,1 @@
+Esse projeto foi desenvolvido como projeto final do Laboratório de Análise e Estrutura de Dados II, e tem como grande objetivo armazenar uma lista de livros lidos, utilizando uma Lista CDE como estrutura de dados base, e utilizamos a manipulação de arquivos para armazenarmos as informações, até que o usuário pretenda removê-las da lista.
